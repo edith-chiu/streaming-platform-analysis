@@ -5,6 +5,7 @@ This project analyses streaming platform content data to identify trends in cont
 
 An interactive dashboard was built to visualise key metrics and allow users to explore the dataset through filters and dynamic visuals.
 
+
 Power BI Dashboard:
 https://app.powerbi.com/links/iFfhI5fxy2?ctid=bd697c1b-c481-479c-841e-c618542675c3&pbi_source=linkShare
 
@@ -34,6 +35,7 @@ Trend analysis of content releases over time
 Genre distribution analysis
 
 Interactive slicers for dynamic filtering
+
 
 Key Insights
 
