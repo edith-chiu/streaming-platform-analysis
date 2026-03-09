@@ -65,3 +65,17 @@ DAX
 Data modelling
 
 Data visualisation
+
+
+
+Skills Demonstrated
+
+Data modelling
+
+Power BI dashboard development
+
+DAX measures
+
+Data visualisation
+
+Trend analysis
