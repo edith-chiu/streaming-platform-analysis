@@ -59,6 +59,19 @@ Drama and comedy are among the most dominant genres across platforms.
 Platform catalogues show different genre specialisations depending on their target audiences.
 
 
+## Business Recommendations
+
+Based on the analysis, several potential recommendations can be made:
+
+• Popular genres could be prioritised in future content investments to maximise audience engagement.
+
+• Content categories with consistently strong viewing trends may indicate opportunities for targeted marketing campaigns.
+
+• Understanding device usage patterns can help streaming platforms optimise user experience across the most commonly used devices.
+
+These insights demonstrate how data analysis can support strategic decisions in content planning and platform optimisation.
+
+
 ## Tools Used:
 
 Power BI
